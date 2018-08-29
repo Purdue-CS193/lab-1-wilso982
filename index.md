@@ -1,3 +1,12 @@
+# Austin Wilson's First cs193 Lab
+
+## My Top 3 Favorite Things About cs193
+
+- We only meet **once** per week!
+- Classes and labs are only 50 minutes!
+- Things we learn in this class are usefull for my future in cs!
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
