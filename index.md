@@ -1,5 +1,6 @@
 # Austin Wilson's First cs193 Lab
 
+
 ## My Top 3 Favorite Things About cs193
 
 - We only meet **once** per week!
